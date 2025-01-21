@@ -1,0 +1,3 @@
+([('main',
+   '/Users/enrique/PycharmProjects/Offline-Inventory-Tracker/dist/main',
+   'EXECUTABLE')],)
