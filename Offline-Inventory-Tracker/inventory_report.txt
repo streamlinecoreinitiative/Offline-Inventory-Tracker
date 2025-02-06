@@ -1,0 +1,2 @@
+ID    Item Name            Quantity   Threshold  Price      Unit      
+1     burger               100        49         120.0      c/U       
